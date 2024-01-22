@@ -1,2 +1,2 @@
-# Drum-Kit
-Click on to try it! https://fatmaygn.github.io/Drum-Kit/
+# <a href="https://fatmaygn.github.io/Drum-Kit/">Drum Kit</a>
+<a href="https://fatmaygn.github.io/Drum-Kit/">Drum Kit</a>
